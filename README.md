@@ -151,8 +151,7 @@ SimpleAdapter.java
         android:divider="#000000"
         android:dividerHeight="2dp" />
     </android.support.constraint.ConstraintLayout>
-截图：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
 
 在layout文件中添加控件 simple_adapter_1.xml
 
@@ -189,6 +188,9 @@ SimpleAdapter.java
         app:layout_constraintEnd_toEndOf="@+id/name"
         app:layout_constraintTop_toTopOf="parent"/>
      </android.support.constraint.ConstraintLayout>
+截图：
+![Image text](https://github.com/maijiang/work3_ui/blob/master/1_1.PNG)
+![Image text](https://github.com/maijiang/work3_ui/blob/master/1_2.PNG)
 ## 三、创建自定义布局的AlertDialog
 alert_work.java
 
@@ -262,6 +264,9 @@ alert_work.java
         android:hint="password"
         android:id="@+id/et_password"/>
     </LinearLayout>
+截图：
+![Image text](https://github.com/maijiang/work3_ui/blob/master/2.PNG)
+![Image text](https://github.com/maijiang/work3_ui/blob/master/2_2.PNG)
  ## 四、使用XML定义菜单 
  xml.java
      
@@ -368,6 +373,11 @@ alert_work.java
         </item>
     </group>
     </menu>
+截图：
+![Image text](https://github.com/maijiang/work3_ui/blob/master/3_1.PNG)
+![Image text](https://github.com/maijiang/work3_ui/blob/master/3_2.PNG)
+![Image text](https://github.com/maijiang/work3_ui/blob/master/3_3.PNG)
+![Image text](https://github.com/maijiang/work3_ui/blob/master/3_4.PNG)
 ## 五、创建上下文操作模式(ActionMode)的上下文菜单
     actionMode.java
    
@@ -476,3 +486,5 @@ alert_work.java
     <item android:id="@+id/delete"
         android:title="delete"></item>
     </menu>
+截图：
+![Image text](https://github.com/maijiang/work3_ui/blob/master/4.PNG)
