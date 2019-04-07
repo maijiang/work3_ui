@@ -151,6 +151,9 @@ SimpleAdapter.java
         android:divider="#000000"
         android:dividerHeight="2dp" />
     </android.support.constraint.ConstraintLayout>
+截图：
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
 在layout文件中添加控件 simple_adapter_1.xml
 
     <?xml version="1.0" encoding="utf-8"?>
