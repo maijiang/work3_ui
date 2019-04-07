@@ -1,6 +1,6 @@
 # work3_ui
 实验三UI组件
-##一、主页面实现页面跳转
+## 一、主页面实现页面跳转
  MainActivity.java  
 
     public class MainActivity extends AppCompatActivity {
@@ -92,7 +92,7 @@ layout.activity_main.xml
         app:layout_constraintStart_toStartOf="@+id/t3"
         app:layout_constraintTop_toBottomOf="@+id/t3" />
      </android.support.constraint.ConstraintLayout>
-##二、利用SimpleAdapter实现界面效果
+## 二、利用SimpleAdapter实现界面效果
 
 SimpleAdapter.java
        
@@ -186,7 +186,7 @@ SimpleAdapter.java
         app:layout_constraintEnd_toEndOf="@+id/name"
         app:layout_constraintTop_toTopOf="parent"/>
      </android.support.constraint.ConstraintLayout>
-##三、创建自定义布局的AlertDialog
+## 三、创建自定义布局的AlertDialog
 alert_work.java
 
      public class alert_work extends AppCompatActivity {
@@ -259,7 +259,7 @@ alert_work.java
         android:hint="password"
         android:id="@+id/et_password"/>
     </LinearLayout>
- ##四、使用XML定义菜单 
+ ## 四、使用XML定义菜单 
  xml.java
      
     public class XML extends AppCompatActivity {
@@ -365,7 +365,7 @@ alert_work.java
         </item>
     </group>
     </menu>
-   ##五、创建上下文操作模式(ActionMode)的上下文菜单
+## 五、创建上下文操作模式(ActionMode)的上下文菜单
     actionMode.java
    
     public class actionMode extends Activity {
