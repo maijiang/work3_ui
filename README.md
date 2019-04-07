@@ -374,10 +374,10 @@ alert_work.java
     </group>
     </menu>
 截图：
-<img width="50" height="50" src="https://github.com/maijiang/work3_ui/blob/master/3_1.PNG"/>
-![Image text](https://github.com/maijiang/work3_ui/blob/master/3_2.PNG)
-![Image text](https://github.com/maijiang/work3_ui/blob/master/3_3.PNG)
-![Image text](https://github.com/maijiang/work3_ui/blob/master/3_4.PNG)
+<img width="150" height="150" src="https://github.com/maijiang/work3_ui/blob/master/3_1.PNG"/>
+<img width="150" height="150" src="https://github.com/maijiang/work3_ui/blob/master/3_2.PNG"/>
+<img width="150" height="150" src="https://github.com/maijiang/work3_ui/blob/master/3_3.PNG"/>
+<img width="150" height="150" src="https://github.com/maijiang/work3_ui/blob/master/3_4.PNG"/>
 ## 五、创建上下文操作模式(ActionMode)的上下文菜单
     actionMode.java
    
