@@ -365,8 +365,8 @@ alert_work.java
         </item>
     </group>
     </menu>
-五、创建上下文操作模式(ActionMode)的上下文菜单
-actionMode.java
+   ##五、创建上下文操作模式(ActionMode)的上下文菜单
+    actionMode.java
    
     public class actionMode extends Activity {
     private ActionMode actionMode;
@@ -466,10 +466,10 @@ actionMode.java
     </ListView>
     </android.support.constraint.ConstraintLayout>
 在menu文件夹中添加alert_menu.xml文件
-    
+       
     <?xml version="1.0" encoding="utf-8"?>
     <menu xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <item android:id="@+id/menu_f"
-        android:title="删除"></item>
+    <item android:id="@+id/delete"
+        android:title="delete"></item>
     </menu>
